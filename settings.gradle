@@ -1,0 +1,3 @@
+rootProject.name = "TSA VideoCall SDK-HB"
+include ':app'
+include ':tsa-videocall-sdk-hb'
